@@ -1,8 +1,8 @@
 def add_numbers(a, b):
     return a + b
 
-x = 20
-y = 40
+x = 15
+y = 30
 
 result = add_numbers(x, y)
 
